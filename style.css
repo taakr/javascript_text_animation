@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h2 {
+  padding-top: 3rem;
+}
+
+p {
+  padding: 1rem;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+.fade {
+  opacity: 0;
+}
+
+.color {
+  background-color: rgb(252, 255, 170);
+}
+
+.line {
+  background-color: #ffb4fb;
+  width: 0;
+}
+
+.slide-in {
+  opacity: 0;
+}
